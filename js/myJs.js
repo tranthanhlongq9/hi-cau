@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu cậu!",
+  text1: "He luu cậu ^^",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Cậu yêu tớ có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nhaa :v",
+  text3: "Cậu thích tớ có phải không nào ._.",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm ng yêu tớ rùi đó nhaa :v",
   text5: "Cậu mơ à???",
-  text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
+  text6: "Thích ơi là thích ❤",
+  text7: "Nói lí do cậu thích tớ đi :v ",
+  text8: "Gửi cho tớ nhá <3",
+  text9: "Vì cậu đẹp trai vl ❤💖",
   text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
-    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Hết dịch cậu rảnh chứ.. tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko thử inbox cho tớ đi nàoo",
   text12: "Okii lunn <3",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+              window.location = "https://www.facebook.com/iamlong.limited/";
           },
         });
       }
